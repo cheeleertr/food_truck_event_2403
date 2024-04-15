@@ -5,4 +5,6 @@ class Item
     @name = name
     @inventory = {}
   end
+
+  
 end
